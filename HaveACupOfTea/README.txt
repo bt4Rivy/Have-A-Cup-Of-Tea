@@ -75,5 +75,7 @@ CPU：Intel i7-6700
 RAM：32GB
 GPU:RTX3070
 
+Twitter
+@bt_4_rivy
 
 バグがあったらやさしく教えてください。　-- Rivy
